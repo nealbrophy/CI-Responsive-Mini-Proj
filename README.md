@@ -1,14 +1,9 @@
-         ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
+# Code Institute Responsive Design Mini Project
 
+## What is it?
 
-Hi there! Welcome to AWS Cloud9!
+The Responsive Design Mini Project from Code Institute Dev Diploma Module 3 "User Centric Front End Development"
 
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
+# What does it do?
 
-Happy coding!
+Demonstrates mobile first dev and use of media queries.
